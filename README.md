@@ -1,8 +1,11 @@
+
 # SpotifyC2 — Cloud-Based Command Channel Research
 
 Execute commands through a Spotify playlist and receive command output through Telegram.
 
 ---
+
+<img width="1408" height="768" alt="Spotify" src="https://github.com/user-attachments/assets/89025444-5ba7-4ea0-b75a-4b57f0521b83" />
 
 ## What is SpotifyC2?
 
@@ -15,6 +18,18 @@ The project explores the concept of cloud-assisted command channels using legiti
 > **This project is intended solely for cybersecurity research, authorized laboratory environments, detection engineering, and educational purposes.**
 
 ---
+![Language](https://img.shields.io/badge/language-C-00599C?logo=c&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/networking-libcurl-1E88E5)
+![Communication](https://img.shields.io/badge/communication-Spotify%20oEmbed-1DB954?logo=spotify&logoColor=white)
+![Output](https://img.shields.io/badge/output-Telegram-26A5E4?logo=telegram&logoColor=white)
+![Authentication](https://img.shields.io/badge/Spotify%20API-Not%20Required-success)
+![Polling](https://img.shields.io/badge/polling-20%20Seconds-orange)
+![Architecture](https://img.shields.io/badge/architecture-Cloud%20Communication-purple)
+![Purpose](https://img.shields.io/badge/purpose-Cybersecurity%20Research-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-Active%20Research-red)
+
 
 ## Architecture
 
