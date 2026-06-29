@@ -4,8 +4,6 @@ Execute commands through a Spotify playlist and receive command output through T
 
 ---
 
-# SpotifyC2
-
 ## What is SpotifyC2?
 
 **SpotifyC2** is a Windows-based cybersecurity research project that demonstrates how publicly accessible cloud services can be used as a communication channel between a controller and a client.
