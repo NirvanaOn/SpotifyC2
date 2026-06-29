@@ -1,4 +1,5 @@
 
+
 # SpotifyC2 — Cloud-Based Command Channel Research
 
 Execute commands through a Spotify playlist and receive command output through Telegram.
@@ -16,6 +17,8 @@ Instead of communicating with a traditional server, the client periodically poll
 The project explores the concept of cloud-assisted command channels using legitimate web services for educational and defensive security research.
 
 > **This project is intended solely for cybersecurity research, authorized laboratory environments, detection engineering, and educational purposes.**
+
+<img width="1919" height="1036" alt="Screenshot 2026-06-29 232937" src="https://github.com/user-attachments/assets/09ede7f5-321e-4bee-a562-b554a914f533" />
 
 ---
 ![Language](https://img.shields.io/badge/language-C-00599C?logo=c&logoColor=white)
